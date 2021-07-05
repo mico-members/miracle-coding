@@ -1,0 +1,82 @@
+## 21.07.05 월요일
+
+### 모자스 1~3장
+
+- Node.js는 자바스크립트 런타임 환경이다. 브라우저 외부에서 자바스크립트의 실행 환경을 제공하는 것이 목적이다. 따라서 브라우저가 제공하는 Web API를 사용하지 못한다. Web API에는 다음과 같은 것들이 있다.
+    - Web API의 종류
+        - DOM
+        - BOM
+        - Canvas
+        - XMLHttpRequest
+        - fetch
+        - requestAnimationFrame
+        - SVG
+        - Web Storage
+        - Web Component
+        - Web Worker
+        - 이외에도 엄청 많다. [MDN 링크](https://developer.mozilla.org/ko/docs/Web/API)
+- Node.js는 클라이언트 사이드 Web API를 지원하지 않는 대신, ECMAScript와 고유의 API를 지원한다.
+
+<br>
+
+### Jest
+
+- 테스트코드를 돌릴 때는 node XXX.js 가 아니라 yarn test 로 하는 거다..
+
+<br>
+
+### 바닐라TS
+
+CRA를 사용하여 React에서 TS 환경은 명령어 한 줄로 손쉽게 구성했었다. React가 아닌 바닐라TS(?) 환경은 어떻게 구성해야 할까?
+
+1. TypeScript 프로젝트 시작하기
+
+    ```tsx
+    $ tsc --init
+    ```
+
+2. `tsconfig.json` 설정하기
+    - 기본적으로 target, module, strict가 설정되어 있고 추가적으로 설정할 수 있다. 컴파일되는 파일들을 `dist` 폴더에 넣기 위해 `"outDir": "dist"` 를, 디버깅을 위해 `"sourceMap": true` 를 설정해주었다.
+
+        ```json
+        {
+          "compilerOptions": {
+            "target": "es5",
+            "module": "commonjs",
+            "strict": true,
+            "outDir": "dist",
+            "sourceMap": true
+          }
+        }
+        ```
+
+3. 컴파일하기
+    - ts 파일에 코드를 작성하고 `tsc` 명령어를 이용해서 컴파일한다. 그러면 우리가 설정한 `dist` 폴더에 js 파일과 sourcemap 파일이 생성된다.
+4. watch mode 사용하기
+    - 매번 변화가 있을 때마다 컴파일하는 것은 번거로운 일이다. watch mode를 사용하면 ts 파일에 변화가 있을 때 자동으로 컴파일해준다.
+
+        ```tsx
+        $ tsc -w
+
+        // ts가 로컬에만 설치되어 있는 경우에는
+        $ npx tsc -w
+        ```
+
+5. 린트 설정하기
+    - TSLint는 2019년에 deprecated 되었다. TS와 JS에서 둘 다 사용 가능한 ESLint로의 마이그레이션을 위함이다. 따라서 ESLint로 설정을 해보자.
+
+        ```tsx
+        $ yarn add eslint --dev
+        $ yarn run eslint --init // config 파일 손쉽게 생성. 여러가지를 물어본다.
+        ```
+
+    - 여기까지 했는데 뭔가 안 되는 느낌..? 프리티어만 작동하는 것 같다. 이 이상의 설정은 나중에 해보기로..
+
+### 회고
+
+- 모자스 1~3장 어렵거나 중요한 내용은 아니어서 술술 읽었다.
+- 미션 복습을 하려고 오늘은 debounce, throttle 함수를 구현해보려고 했다. 리액트까지 쓸 필요도 없고 util 함수 정도로 만들어보려고 했고, TypeScript와 test code를 함께 써보려고 했다. 근데 리액트 CRA로 편하게 설정하던 것과 다르게, 하나하나 다 설정을 해줘야 했다. 이 환경설정하는 게 참 어렵다. 아직은 TS + test code (Jest 라이브러리를 사용하려고 했음) 를 CRA 없이 설정할 때 어떻게 해야 하는지 감이 잘 안 와서 내일 다시 해봐야겠다. 얼핏 보기로 babel 설정을 해줘야 하는 것 같다. 아예 webpack, babel부터 해보는 것도 괜찮을 듯
+- 알고리즘 dfs 한 문제, 쉬운 문자열 한 문제 풀었다. dfs를 자유자재로 풀 수 있는 날이 올까? 😭 조급함을 조금 내려놓고 기초부터 쌓아가자..!
+
+<br>
+<br>
