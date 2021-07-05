@@ -8,4 +8,4 @@
 
 |날짜|링크|키워드|
 |:---:|:---:|:---:|
-|5|🔗 [바로가기](https://github.com/GleamingStar/miracle-coding/tree/autumn/July/week1#210705-%EC%9B%94%EC%9A%94%EC%9D%BC)|모자스 1~3장, 테스트코드 시도 (실패), debounce 
+|5|🔗 [바로가기](https://github.com/GleamingStar/miracle-coding/tree/autumn/July/week1#210705-%EC%9B%94%EC%9A%94%EC%9D%BC)|모자스 1~3장, 테스트코드 시도 (실패), debounce & throttle
