@@ -4,4 +4,4 @@
 
 | 날짜 | 링크         |
 | ---- | ------------ |
-| 0706 | [바로가기]() |
+| 0706 | [바로가기](https://github.com/damilog/miracle-coding/blob/main/TIL/TIL_210706.md) |
