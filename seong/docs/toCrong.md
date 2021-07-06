@@ -3,7 +3,7 @@
   - 우선 인턴십 대비 코딜리티
   - 프로그래머스 1레벨 다 풀기, 이후 2레벨 다풀기
   - 이론 공부하기
-- [개발일지](https://github.com/GleamingStar/miracle-coding/blob/seong/seong/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80.md) 완성하기
+- [개발일지](https://github.com/GleamingStar/miracle-coding/blob/seong/seong/docs/%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80.md) 완성하기
   - 코코아의 빨간우체통마을찾기 완성
   - CS, 퀴즈 복습하며 면접대비
 - 이력서 살 붙이기 & 자소서 쓰기
