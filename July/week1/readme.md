@@ -336,7 +336,7 @@ HTTP에 대해 학습하기 전에, 인터넷 네트워크에 대해 알아보�
 
 ### TCP (Transmission Control Protocol)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5db1d054-0df5-4ff4-bebf-5c6ba5c0602e/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5db1d054-0df5-4ff4-bebf-5c6ba5c0602e/Untitled.png)
+<img src="https://user-images.githubusercontent.com/60209518/124644862-af8f5400-decd-11eb-8c5e-cbbe4c5daca3.png" width="60%">
 
 출처 - [https://www.overcoded.net/network-protocol-layers-432211/](https://www.overcoded.net/network-protocol-layers-432211/)
 TCP는 IP위에 살짝 올려져서 IP를 보완한다고 생각하면 됨
@@ -345,7 +345,7 @@ TCP는 IP위에 살짝 올려져서 IP를 보완한다고 생각하면 됨
 - TCP의 특징
     - 연결 지향 - TCP 3 way handshake (가상 연결) : 무턱대고 보내는 게 아니라 연결을 한 후에 보낸다.
 
-        ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/05050a71-ce1c-47bf-b803-42cb25454bd5/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/05050a71-ce1c-47bf-b803-42cb25454bd5/Untitled.png)
+        <img src="https://user-images.githubusercontent.com/60209518/124644902-ba49e900-decd-11eb-8044-88ffcea6f890.png" width="60%">
 
         요즘은 최적화가 되어서 ACK와 함께 데이터 전송이 가능하다.
 
