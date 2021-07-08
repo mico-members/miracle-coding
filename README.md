@@ -10,3 +10,4 @@
 |:---:|:---:|:---|
 |5|🔗 [바로가기](https://github.com/GleamingStar/miracle-coding/tree/autumn/July/week1#210705-%EC%9B%94%EC%9A%94%EC%9D%BC)|모자스 1~3장, 테스트코드 시도 (실패), debounce & throttle
 |6|🔗 [바로가기](https://github.com/GleamingStar/miracle-coding/blob/autumn/July/week1/readme.md#210706-%ED%99%94%EC%9A%94%EC%9D%BC)|바벨, 모자스 4,5장, IP, TCP, UDP, debounce & throttle 구현 (아직 잘 모르겠음)
+|7|🔗 [바로가기](https://github.com/GleamingStar/miracle-coding/tree/autumn/July/week1#210707-%EC%88%98%EC%9A%94%EC%9D%BC)|웹팩, 모자스 6장, PORT, DNS
