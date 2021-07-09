@@ -27,6 +27,7 @@ module.exports = {
     host: "localhost",
     port: process.env.PORT || 3000,
     open: true,
+    historyApiFallback: true,
   },
   plugins: [
     new HtmlWebpackPlugin({
