@@ -10,3 +10,4 @@
 |6|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/July/week2/210706.md)|바벨, 모자스 4,5장, IP, TCP, UDP, debounce & throttle 구현 (아직 잘 모르겠음)
 |7|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/July/week2/210707.md)|웹팩, 모자스 6장, PORT, DNS
 |8|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/July/week2/210708.md)|URI, URL, URN, 웹브라우저 요청 흐름, 모자스 7장
+|9|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/July/week2/210709.md)|모자스 8~10장, 슬랙봇 만들기 (실패)
