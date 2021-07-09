@@ -8,3 +8,4 @@
 |6|[쓰로틀링 구현 중](https://github.com/adelakim5/miracle-coding/tree/master)|[2021-07-06](https://github.com/adelakim5/miracle-coding/wiki/%ED%9A%8C%EA%B3%A0%EB%A1%9D#2021-07-06)|🔺|
 |7|[쓰로틀링 구현](https://github.com/adelakim5/miracle-coding/tree/master)|[2021-07-07](https://github.com/adelakim5/miracle-coding/wiki/%ED%9A%8C%EA%B3%A0%EB%A1%9D#2021-07-07)|💨|
 |8|빰스터디, 3초단위 쓰로틀링 데이터 캐싱|[2021-07-08](https://github.com/adelakim5/miracle-coding/wiki/%ED%9A%8C%EA%B3%A0%EB%A1%9D#2021-07-08)|💪|
+|9|바닐라js 구현연습|[2021-07-09](https://github.com/adelakim5/miracle-coding/wiki/%ED%9A%8C%EA%B3%A0%EB%A1%9D#2021-07-09)|👊|
