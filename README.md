@@ -10,3 +10,4 @@
 | 0707 | [[Algorithm] LeetCode : Word Break \<TryAgain\>](https://codi-rano.tistory.com/132)             | [[TIL] 2021.07.07](https://codi-rano.tistory.com/133) |
 | 0708 | [[Algorithm] (0-1)Knapsack Problem](https://codi-rano.tistory.com/135)                          | [[TIL] 2021.07.08](https://codi-rano.tistory.com/136) |
 |      | [[React] Redux와 Recoil..?](https://codi-rano.tistory.com/134)                                  |                                                       |
+| 0709 | [[Algorithm] LeetCode : Partition Equal Subset Sum](https://codi-rano.tistory.com/137)          | [[TIL] 2021.07.09](https://codi-rano.tistory.com/138) |
