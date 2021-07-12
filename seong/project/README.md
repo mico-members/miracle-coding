@@ -1,4 +1,5 @@
 # toy-react-router
+#### [GitHub 저장소](https://github.com/GleamingStar/toy-react-router)
 #### [react-router 공식문서](https://reactrouter.com/web/guides/quick-start)
 #### [Lucas - Client Routing](https://lucas.codesquad.kr/masters-2021/course/%EB%A7%88%EC%8A%A4%ED%84%B0%EC%A6%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-2021/-%ED%95%99%EC%8A%B5%EC%9E%90%EB%A3%8C-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/Client-Routing)
 #### [Crong's custom router](https://gist.github.com/crongro/7472a27d826d17eb4a3b29e70c54e650)
@@ -10,7 +11,6 @@
 - 라우터와, 그에 따른 SPA에 대한 이해 심화
 - 코드스쿼드 과정에서 쌩깠던 요구사항 as
 ### 목표
-- [X] 팀 규모 : 1명
 - [X] CRA 없이 웹팩,바벨,타입스크립트 환경설정
 - [X] 필수 기능
   - url에 따른 선택적 렌더링을 위한 route 구현

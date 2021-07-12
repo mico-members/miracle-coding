@@ -9,18 +9,21 @@ const App = () => {
     <>
       <Foo />
       <Router>
-        <Route path="/">
+        <Route path="/" exact>
           <Main />
         </Route>
         <Route path="/1">
-          <Link to="/2">
+          <Link to="/a">
             <Page />
           </Link>
         </Route>
-        <Route path="/2">
+        <Route path="/a" exact>
           <Link to="/">
             <Page />
           </Link>
+        </Route>
+        <Route path="*">
+          121212
         </Route>
       </Router>
     </>
