@@ -1,36 +1,43 @@
-import React from "react";
-import { Router, Route, Link } from "./Router";
+import React, { useState } from "react";
 import styled from "styled-components";
+import Main from "./components/Main";
+import Page from "./components/Page";
+import { Router, Route, Link } from "toy-react-router";
 
 const App = () => {
   return (
-    <Router>
-      <Route path="/">
-        <Link to="/1">
-          <Foo>메인페이지</Foo>
-        </Link>
-      </Route>
-      <Route path="/1">
-        <Link to="/2">
-          <Foo>1번페이지</Foo>
-        </Link>
-      </Route>
-      <Route path="/2">
-        <Link to="/">
-          <Foo>2번페이지</Foo>
-        </Link>
-      </Route>
-    </Router>
+    <>
+      <Foo />
+      <Router>
+        <Route path="/">
+          <Main />
+        </Route>
+        <Route path="/1">
+          <Link to="/2">
+            <Page />
+          </Link>
+        </Route>
+        <Route path="/2">
+          <Link to="/">
+            <Page />
+          </Link>
+        </Route>
+      </Router>
+    </>
   );
 };
 
-const Foo = styled.div`
-  display: flex;
-  justify-content: center;
-  align-items: center;
+const Foo = () => {
+  const [count, setCount] = useState(0);
+  console.log("foo rendered")
+
+  return <FooWrapper onClick={() => setCount((count) => ++count)}>{count}</FooWrapper>;
+};
+
+const FooWrapper = styled.div`
+  border: 3px solid gray;
   width: 800px;
-  height: 800px;
-  border: 1px solid red;
+  height: 100px;
 `;
 
 export default App;

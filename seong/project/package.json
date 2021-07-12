@@ -1,5 +1,5 @@
 {
-  "name": "toy-react-router",
+  "name": "toy-react-router-test",
   "version": "0.0.1",
   "description": "react-router-dom clone for practice making library",
   "main": "index.js",
@@ -26,6 +26,7 @@
   },
   "dependencies": {
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "toy-react-router": "0.0.4"
   }
 }
