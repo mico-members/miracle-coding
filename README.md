@@ -11,3 +11,5 @@
 | 0708 | [[Algorithm] (0-1)Knapsack Problem](https://codi-rano.tistory.com/135)                          | [[TIL] 2021.07.08](https://codi-rano.tistory.com/136) |
 |      | [[React] Redux와 Recoil..?](https://codi-rano.tistory.com/134)                                  |                                                       |
 | 0709 | [[Algorithm] LeetCode : Partition Equal Subset Sum](https://codi-rano.tistory.com/137)          | [[TIL] 2021.07.09](https://codi-rano.tistory.com/138) |
+| 0712 | [[Algorithm] LeetCode : Coin Change 2](https://codi-rano.tistory.com/141)                       | [[TIL] 2021.07.12](https://codi-rano.tistory.com/142) |
+|      | [[JavaScript] 로컬 스토리지, 세션 스토리지 그리고 쿠키](https://codi-rano.tistory.com/140)      |                                                       |
