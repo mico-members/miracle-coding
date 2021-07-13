@@ -15,3 +15,4 @@
 |일자|공부내용|회고|기타|
 |---|---|---|---|
 |12|모의 과제테스트|[2021-07-12](https://github.com/adelakim5/miracle-coding/wiki/2021-07-week-2-%ED%9A%8C%EA%B3%A0%EB%A1%9D#2021-07-12)|🛌|
+|13|알고리즘|[2021-07-13](https://github.com/adelakim5/miracle-coding/wiki/2021-07-week-2-%ED%9A%8C%EA%B3%A0%EB%A1%9D#2021-07-13)|💧|
