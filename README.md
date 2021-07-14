@@ -12,3 +12,4 @@
 |8|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/July/week2/210708.md)|URI, URL, URN, 웹브라우저 요청 흐름, 모자스 7장
 |9|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/July/week2/210709.md)|모자스 8~10장, 슬랙봇 만들기 (실패)
 |13|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/July/week3/210713.md)|모자스 11장, stateless, stateful, HTTP message
+|14|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/July/week3/210714.md)|모자스 12장 진행 중, HTTP API URI의 설계, HTTP 메서드, MAC address
