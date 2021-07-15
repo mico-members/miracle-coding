@@ -16,12 +16,10 @@
   - url에 따른 선택적 렌더링을 위한 route 구현
   - history.pushState를 통한 뒤로가기 구현
   - link 컴포넌트 구현
-- [ ] 추가기능
-  - switch와 no match 처리, 404
-  - 중첩 route
+  - switch, redirect
   - exact path, path="*" 기능
-    - include?
-  - redirect 기능
+- [ ] 추가기능
+  - 중첩 route
   - window.location 대체할 [useParams?](https://reactrouter.com/web/example/url-params) 따위의 Hooks 개발
 
 ### 계획
