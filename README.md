@@ -13,3 +13,5 @@
 |9|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/July/week2/210709.md)|모자스 8~10장, 슬랙봇 만들기 (실패)
 |13|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/July/week3/210713.md)|모자스 11장, stateless, stateful, HTTP message
 |14|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/July/week3/210714.md)|모자스 12장 진행 중, HTTP API URI의 설계, HTTP 메서드, MAC address
+|15|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/July/week3/210715.md)|지원서 작성, 코테 (공부 안 함)
+|16|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/July/week3/210716.md)|모자스 12장 마무리, 13장, 바닐라 TodoList (구현 1도 못함)
