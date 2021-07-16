@@ -16,3 +16,5 @@
 | 0713 | 없음 😭 😭                                                                                      | [[TIL] 2021.07.13](https://codi-rano.tistory.com/143) |
 | 0714 | 열시미 Webpack + TypeScript + React 학습 중..                                                   | [[TIL] 2021.07.14](https://codi-rano.tistory.com/144) |
 | 0715 | [[Webpack] CRA없이 React + TypeScript 환경 만들기](https://codi-rano.tistory.com/145)           | [[TIL] 2021.07.15](https://codi-rano.tistory.com/146) |
+| 0716 | [[Algorithm] LeetCode : Longest Common Subsequence](https://codi-rano.tistory.com/148)          | [[TIL] 2021.07.16](https://codi-rano.tistory.com/149) |
+|      | [[JavaScript] call, apply, bind?](https://codi-rano.tistory.com/147)                            |                                                       |
