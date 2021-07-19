@@ -18,4 +18,4 @@
 |13|알고리즘|[2021-07-13](https://github.com/adelakim5/miracle-coding/wiki/2021-07-week-2-%ED%9A%8C%EA%B3%A0%EB%A1%9D#2021-07-13)|💧|
 |14|코딜리티 알고리즘|[2021-07-14](https://github.com/adelakim5/miracle-coding/wiki/2021-07-week-2-%ED%9A%8C%EA%B3%A0%EB%A1%9D#2021-07-14)|🐤|
 |15|알고리즘, [tokenizing, lexing](https://delicate-mars-601.notion.site/tokenizing-lexing-ff0389ac404e43a598ad1005dea50c81)|[2021-07-15](https://github.com/adelakim5/miracle-coding/wiki/2021-07-week-2-%ED%9A%8C%EA%B3%A0%EB%A1%9D#2021-07-15)|🕳|
-|16|[Cookie](https://delicate-mars-601.notion.site/Cookie-70f1d1e0486f4a79916e176605493eb5)|[2021-07-16](https://delicate-mars-601.notion.site/Cookie-70f1d1e0486f4a79916e176605493eb5)|✔|
+|16|[Cookie](https://delicate-mars-601.notion.site/Cookie-70f1d1e0486f4a79916e176605493eb5)|[2021-07-16](https://github.com/adelakim5/miracle-coding/wiki/2021-07-week-2-%ED%9A%8C%EA%B3%A0%EB%A1%9D#2021-07-16)|✔|
