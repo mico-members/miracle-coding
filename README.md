@@ -14,3 +14,4 @@
 |210716|[링크](https://github.com/junzero741/miracle-coding/blob/main/7%EC%9B%942%EC%A3%BC%EC%B0%A8/mc_210716.md)|
 |210719|[링크](https://github.com/junzero741/miracle-coding/blob/main/7%EC%9B%942%EC%A3%BC%EC%B0%A8/mc_210719.md)|
 |210720|[링크](https://github.com/junzero741/miracle-coding/blob/main/7%EC%9B%942%EC%A3%BC%EC%B0%A8/mc_210720.md)|
+|210721|[링크](https://github.com/junzero741/miracle-coding/blob/main/7%EC%9B%943%EC%A3%BC%EC%B0%A8/mc_210721.md)|
