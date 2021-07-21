@@ -30,3 +30,4 @@
 |---|---|---|---|
 |19|면접 질문 톺아보기|[2021-07-19](https://github.com/adelakim5/miracle-coding/wiki/2021-07-week-3-%ED%9A%8C%EA%B3%A0%EB%A1%9D#2021-07-19)|🖊|
 |20|빰터디 면접 돌아보기|[2021-07-20](https://github.com/adelakim5/miracle-coding/wiki/2021-07-week-3-%ED%9A%8C%EA%B3%A0%EB%A1%9D#2021-07-20)|✒|
+|21|면접 관련 개념 공부|[2021-07-21](https://github.com/adelakim5/miracle-coding/wiki/2021-07-week-3-%ED%9A%8C%EA%B3%A0%EB%A1%9D#2021-07-21)|🥕|
