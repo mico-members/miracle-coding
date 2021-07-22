@@ -18,3 +18,4 @@
 |19|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/July/week4/210719.md)|모자스 16장 진행 중, HTTP 메서드의 속성과 활용
 |20|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/July/week4/210720.md)|모자스 16장 진행 중, 몬스터디 리뷰
 |21|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/July/week4/210721.md)|HTTP API 설계 예시, 모의면접
+|22|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/July/week4/210722.md)|모자스 17~18장
