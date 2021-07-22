@@ -15,6 +15,7 @@
     ```
     - let/const 변수 선언과 함수표현식에서는 호이스팅이 발생하지 않는다.
       - 정확히는 호이스팅은 일어나지만, var에서는 undefined로 초기값을 할당하는 반면에 let과 const는 할당하지 않는다
+    - 실행컨텍스트 생성, 렉시컬 환경 구성 과정에서 변수정보를 만들때 호이스팅이 일어난다
 - [x] 클로저 [answerLucas](./answerLucas.md)
 - [x] 렉시컬스코프 스코프체인 [answerLucas](./answerLucas.md)
 - [x] cors에러와 sop, 프록시
@@ -71,7 +72,7 @@
     - 언마운트 : WillUnmount -> 사망
   - 함수형 컴포넌트에서는 이를 useEffect 훅으로 대체
     - 렌더링시 (DidMount) 한번, 참조배열에 변화에따라 반복(DidUpdate), return으로 청소(WillUnmount)
-
+- [ ] 동기비동기블락논블락
 
 - 자바스크립트 디자인패턴의 종류 및 설명?????
 - css: flex라는 것은 무엇인가

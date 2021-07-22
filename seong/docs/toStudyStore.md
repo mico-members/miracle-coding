@@ -9,7 +9,7 @@
 - [ ] 리액트 클래스형 컴포넌트
 - [ ] 쓰로틀 10분안에 구현하기
 - [ ] event.stopPropagation()을 통한 modal on off 구현
-- [ ] 서버사이드렌더링의 이해, SSR과 최적화의 상관관계
+- [X] 서버사이드렌더링의 이해, SSR과 최적화의 상관관계
 - [ ] ES2015 이후의 기능인 [public/private class field](https://github.com/tc39/proposal-class-fields) 이해와 활용
 - [ ] 🐿️ HTTP 완벽가이드 🐿️
 - [ ] tree shaking
