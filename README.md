@@ -19,3 +19,4 @@
 |20|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/July/week4/210720.md)|모자스 16장 진행 중, 몬스터디 리뷰
 |21|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/July/week4/210721.md)|HTTP API 설계 예시, 모의면접
 |22|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/July/week4/210722.md)|모자스 17~18장
+|23|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/tree/autumn/July/week4)|투포인터 알고리즘, 슬라이딩 윈도우 알고리즘, 모자스 19장 진행 중
