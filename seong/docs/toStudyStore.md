@@ -7,6 +7,7 @@
 - [x] 바닐라 JS에서의 타입스크립트 적용 실습
 - [x] typescript partial, pick & omit
 - [ ] 리액트 클래스형 컴포넌트
+- [ ] 타입스크립트의 public private
 - [ ] 쓰로틀 10분안에 구현하기
 - [ ] event.stopPropagation()을 통한 modal on off 구현
 - [X] 서버사이드렌더링의 이해, SSR과 최적화의 상관관계
@@ -21,6 +22,9 @@
 - [ ] 테스트코드와 TDD
 - [ ] GraphQL
 - [ ] eslint
+- [ ] 트랜스파일링 옵션(uglify, dropconsole, ...)
+- [ ] react-native
+- [ ] nullish
 - [ ] cra의 에러모듈? 찾기 `0709`
 - [ ] github action 실습 `0719`
 - [ ] 크롬익스텐션 `0719`

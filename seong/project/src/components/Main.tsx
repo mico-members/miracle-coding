@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-// import { Link } from "toy=react-router";
 import { Link, Redirect } from "toy-react-router";
 import styled from "styled-components";
 
@@ -19,7 +18,7 @@ const Child1 = () => {
 
   return (
     <Child1Wrapper>
-      <Redirect to="/1" />
+      {/* <Redirect to="/1" /> */}
       <Child2Memo />
     </Child1Wrapper>
   );
