@@ -41,3 +41,4 @@
 |일자|공부내용|회고|기타|
 |---|---|---|---|
 |26|네이버 인턴 면접|[2021-07-26](https://github.com/adelakim5/miracle-coding/wiki/2021-07-week-4-%ED%9A%8C%EA%B3%A0%EB%A1%9D#2021-07-26)|😬|
+|27|휴식, 프로젝트 회의|[2021-07-27](https://github.com/adelakim5/miracle-coding/wiki/2021-07-week-4-%ED%9A%8C%EA%B3%A0%EB%A1%9D#2021-07-27)|🌿|
