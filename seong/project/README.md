@@ -1,0 +1,40 @@
+# toy-react-router
+#### [GitHub 저장소](https://github.com/GleamingStar/toy-react-router)
+#### [react-router 공식문서](https://reactrouter.com/web/guides/quick-start)
+#### [Lucas - Client Routing](https://lucas.codesquad.kr/masters-2021/course/%EB%A7%88%EC%8A%A4%ED%84%B0%EC%A6%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-2021/-%ED%95%99%EC%8A%B5%EC%9E%90%EB%A3%8C-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/Client-Routing)
+#### [Crong's custom router](https://gist.github.com/crongro/7472a27d826d17eb4a3b29e70c54e650)
+
+### 의의
+- 이력서에 당당히 올릴 프로젝트 추가
+- cra없는 프로젝트 진행을 통한 환경설정 능력 개발
+- 라이브러리 배포를 통한 npm에 대한 이해 증진
+- 라우터와, 그에 따른 SPA에 대한 이해 심화
+- 코드스쿼드 과정에서 쌩깠던 요구사항 as
+### 목표
+- [X] CRA 없이 웹팩,바벨,타입스크립트 환경설정
+- [X] 필수 기능
+  - url에 따른 선택적 렌더링을 위한 route 구현
+  - history.pushState를 통한 뒤로가기 구현
+  - link 컴포넌트 구현
+  - switch, redirect
+  - exact path, path="*" 기능
+- [ ] 추가기능
+  - 중첩 route
+  - window.location 대체할 [useParams?](https://reactrouter.com/web/example/url-params) 따위의 Hooks 개발
+
+### 계획
+- ~~CRA없이 리액트 환경 만들기~~
+- ~~버튼 이벤트 따위로 pushState, 뒤로가기 테스트~~
+- ~~popstate 이벤트 테스트~~
+- ~~`<Route />` 컴포넌트 구현~~
+- ~~`<Link />` 컴포넌트 구현~~
+- ~~하위 컴포넌트를 추가한 후, 리렌더링 문제 확인~~
+- pathname의 /가 두 개 이상일 경우의 문제 해결
+  - 애초에 spa에선 /가 1개여야만 하나?
+- ~~저장소 생성~~
+- ~~README.md 수정~~
+- ~~배포~~
+- 재사용성 및 사용자 편의성 따위의 개선, 리팩토링 반복
+- 추가 기능 추가
+- 시간이된다면 타입스크립트버전도 배포
+  - 이전 DD의 배포 살펴볼 것

@@ -1,0 +1,31 @@
+### To Study Store
+
+- [x] 코코아 Hash Map 미션 복습
+- [ ] 코코아 빨간우체통마을찾기 미션 as
+- [x] 웹팩과 바벨에 대한 이해
+- [x] 웹팩과 바벨 실습
+- [x] 바닐라 JS에서의 타입스크립트 적용 실습
+- [x] typescript partial, pick & omit
+- [X] 트랜스파일링 옵션(uglify, dropconsole, ...)
+- [X] github action 실습
+- [ ] 리액트 클래스형 컴포넌트
+- [ ] 타입스크립트의 public private
+- [ ] 쓰로틀 10분안에 구현하기
+- [ ] event.stopPropagation()을 통한 modal on off 구현
+- [X] 서버사이드렌더링의 이해, SSR과 최적화의 상관관계
+- [ ] ES2015 이후의 기능인 [public/private class field](https://github.com/tc39/proposal-class-fields) 이해와 활용
+- [ ] 🐿️ HTTP 완벽가이드 🐿️
+- [ ] tree shaking
+- [ ] [웹팩을 대체할 rollup](https://medium.com/naver-fe-platform/webpack%EC%97%90%EC%84%9C-rollup%EC%A0%84%ED%99%98%EA%B8%B0-137dc45cbc38)
+- [ ] 보일러플레이트와 yeoman 다루기
+- [ ] TCP / IP 개념
+- [ ] 리다이렉션 / 파이프 개념
+- [ ] 쿼리란 정확히 무엇인가
+- [ ] 테스트코드와 TDD
+- [ ] GraphQL
+- [ ] eslint
+- [ ] react-native
+- [ ] nullish
+- [ ] cra의 에러모듈? 찾기
+- [ ] 크롬익스텐션
+  - 빰빰햄 저장소 참고
