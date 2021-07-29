@@ -43,3 +43,4 @@
 |26|네이버 인턴 면접|[2021-07-26](https://github.com/adelakim5/miracle-coding/wiki/2021-07-week-4-%ED%9A%8C%EA%B3%A0%EB%A1%9D#2021-07-26)|😬|
 |27|휴식, 프로젝트 회의|[2021-07-27](https://github.com/adelakim5/miracle-coding/wiki/2021-07-week-4-%ED%9A%8C%EA%B3%A0%EB%A1%9D#2021-07-27)|🌿|
 |28|휴식, 알고리즘 1문제|[2021-07-28](https://github.com/adelakim5/miracle-coding/wiki/2021-07-week-4-%ED%9A%8C%EA%B3%A0%EB%A1%9D#2021-07-28)|🥶|
+|29|휴식, 알고리즘 1문제|[2021-07-29](https://github.com/adelakim5/miracle-coding/wiki/2021-07-week-4-%ED%9A%8C%EA%B3%A0%EB%A1%9D#2021-07-29)|🛌|
