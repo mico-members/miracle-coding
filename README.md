@@ -20,3 +20,5 @@
 |210726|[링크](https://github.com/junzero741/miracle-coding/blob/main/7%EC%9B%944%EC%A3%BC%EC%B0%A8/mc_210726.md)|
 |210727|[링크](https://github.com/GleamingStar/miracle-coding/blob/goody/7%EC%9B%944%EC%A3%BC%EC%B0%A8/mc_210727.md)|
 |210728|[링크](https://github.com/junzero741/miracle-coding/blob/main/7%EC%9B%944%EC%A3%BC%EC%B0%A8/mc_210728.md)|
+|210729|[링크](https://github.com/junzero741/miracle-coding/blob/main/7%EC%9B%944%EC%A3%BC%EC%B0%A8/mc_210729.md)|
+|210730|[링크](https://github.com/junzero741/miracle-coding/blob/main/7%EC%9B%944%EC%A3%BC%EC%B0%A8/mc_210730.md)|
