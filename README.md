@@ -2,10 +2,17 @@
 
 오톰의 기록은 📚[Notion](https://www.notion.so/d70e7cd16e66439abb794fa4b867cd29?v=fcbba2d6f39b4ef7b5c53a20b9bfebe1)📚 에서도 확인하실 수 있습니다. 👀
 
+## 8월
+
+|날짜|링크|키워드|
+|:---:|:---:|:---|
+
 ## 7월
 
 |날짜|링크|키워드|
 |:---:|:---:|:---|
+|30|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/July/week5/210730.md)|New JSX Transform in React 17, webpack의 resolve.extensions 설정, 모자스 27장 진행 중
+|29|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/July/week5/210729.md)|미라클로그 프로젝트, 몬스터디 (라우터 구현)
 |28|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/July/week5/210728.md)|모자스 22장, 미라클로그 프로젝트
 |27|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/July/week5/210727.md)|HTTP 상태 코드, 모자스 20~21장
 |23|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/tree/autumn/July/week4)|투포인터 알고리즘, 슬라이딩 윈도우 알고리즘, 모자스 19장 진행 중
