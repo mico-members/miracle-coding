@@ -1,5 +1,3 @@
-# ☀️ miracle-coding
-
 ## 👨🏻‍💻 Daily work
 
 | 날짜            | TIL 내용   | 링크                                                        |
