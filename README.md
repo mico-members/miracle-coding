@@ -45,3 +45,11 @@
 |28|휴식, 알고리즘 1문제|[2021-07-28](https://github.com/adelakim5/miracle-coding/wiki/2021-07-week-4-%ED%9A%8C%EA%B3%A0%EB%A1%9D#2021-07-28)|🥶|
 |29|휴식, 알고리즘 1문제|[2021-07-29](https://github.com/adelakim5/miracle-coding/wiki/2021-07-week-4-%ED%9A%8C%EA%B3%A0%EB%A1%9D#2021-07-29)|🛌|
 |30|휴식|[2021-07-30](https://github.com/adelakim5/miracle-coding/wiki/2021-07-week-4-%ED%9A%8C%EA%B3%A0%EB%A1%9D#2021-07-30)|👭|
+
+<br />
+<br />
+
+## 2021년 8월 1주차
+|일자|공부내용|회고|기타|
+|---|---|---|---|
+|2|대전에 내려감|[2021-08-02](https://github.com/adelakim5/miracle-coding/wiki/2021-08-week-1-%ED%9A%8C%EA%B3%A0%EB%A1%9D#2021-08-02)|👎|
