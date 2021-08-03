@@ -8,11 +8,12 @@
 - [x] typescript partial, pick & omit
 - [X] 트랜스파일링 옵션(uglify, dropconsole, ...)
 - [X] github action 실습
+- [x] nullish : 우선순위 조심, 체이닝으로 활용 가능!
 - [ ] 리액트 클래스형 컴포넌트
 - [ ] 타입스크립트의 public private
 - [ ] 쓰로틀 10분안에 구현하기
 - [ ] event.stopPropagation()을 통한 modal on off 구현
-- [X] 서버사이드렌더링의 이해, SSR과 최적화의 상관관계
+- [X] 서버사이드렌더링의 이해, SSR과 최적화의 상관관계 [참고](https://velog.io/@ongsim123/TIL-SSR-vs-CSR)
 - [ ] ES2015 이후의 기능인 [public/private class field](https://github.com/tc39/proposal-class-fields) 이해와 활용
 - [ ] 🐿️ HTTP 완벽가이드 🐿️
 - [ ] tree shaking
@@ -25,7 +26,6 @@
 - [ ] GraphQL
 - [ ] eslint
 - [ ] react-native
-- [ ] nullish
 - [ ] cra의 에러모듈? 찾기
 - [ ] 크롬익스텐션
   - 빰빰햄 저장소 참고
