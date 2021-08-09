@@ -6,6 +6,7 @@
 
 |날짜|링크|키워드|
 |:---:|:---:|:---|
+|9|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/August/week2/210809.md)|프로젝트 회의 그리고 회의
 |3|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/August/week1/210803.md)|인피니티 스크롤, 웹팩, 모자스 23장 진행 
 |2|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/August/week1/210802.md)|인피니티 스크롤 (구현 중)
 
