@@ -6,6 +6,7 @@
 
 |날짜|링크|키워드|
 |:---:|:---:|:---|
+|12|🔗 [바로가기]()|
 |11|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/August/week2/210811.md)|쿠키, 세션, 토큰 공부 중, 모자스 24장 진행 중, 상태 관리란?
 |10|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/August/week2/210810.md)|Biz 지원서, 회의와 회의
 |9|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/August/week2/210809.md)|프로젝트 회의 그리고 회의
