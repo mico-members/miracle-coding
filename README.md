@@ -6,6 +6,7 @@
 
 |날짜|링크|키워드|
 |:---:|:---:|:---|
+|20|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/August/week3/210820.md)|정규표현식, 그렙 지원, 11번가코테합
 |19|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/August/week3/210819.md)|웹팩 공부, NHN soft 지원, 올영코테합
 |18|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/August/week3/210818.md)|모자스 25장 진행 중, 웹팩 공부 중, 플젝 UI 만들기
 |17|🔗 [바로가기](https://github.com/dyongdi/miracle-coding/blob/autumn/August/week3/210817.md)|자소서, 프로젝트
