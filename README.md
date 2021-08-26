@@ -27,6 +27,6 @@
 
 | 날짜 | 회고 바로가기 |
 | ---- | ------------- |
-| 0826 |               |
+| 0826 | [2021-08-26](https://github.com/17-sss/miracle-coding/blob/main/TIL/202108/2021-08-26.md) |
 
 </details>
