@@ -19,3 +19,5 @@
 | 0804 | [바로가기](https://github.com/mico-members/miracle-coding/blob/eamon/TIL/TIL_210804.md) |
 | 0805 | [바로가기](https://github.com/mico-members/miracle-coding/blob/eamon/TIL/TIL_210805.md) |
 | 0809 | [바로가기](https://github.com/mico-members/miracle-coding/blob/eamon/TIL/TIL_210809.md) |
+| 0820 | [바로가기](https://github.com/mico-members/miracle-coding/blob/eamon/TIL/TIL_210820.md) |
+| 0826 | [바로가기](https://github.com/mico-members/miracle-coding/blob/eamon/TIL/TIL_210826.md) |
