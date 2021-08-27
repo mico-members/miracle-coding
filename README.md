@@ -1,6 +1,7 @@
 # Rano's Miracle Coding 🦖
 
-## 2021년 7월
+<details>
+<summary style="font-size: 1.5em">2021년 7월 🍉</summary>
 
 | 날짜 | 공부내용                                                                                        | 회고                                                  |
 | ---- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
@@ -18,3 +19,14 @@
 | 0715 | [[Webpack] CRA없이 React + TypeScript 환경 만들기](https://codi-rano.tistory.com/145)           | [[TIL] 2021.07.15](https://codi-rano.tistory.com/146) |
 | 0716 | [[Algorithm] LeetCode : Longest Common Subsequence](https://codi-rano.tistory.com/148)          | [[TIL] 2021.07.16](https://codi-rano.tistory.com/149) |
 |      | [[JavaScript] call, apply, bind?](https://codi-rano.tistory.com/147)                            |                                                       |
+
+</details>
+
+<details>
+<summary style="font-size: 1.5em">2021년 8월 🌻</summary>
+
+| 날짜 | 회고 바로가기 |
+| ---- | ------------- |
+| 0826 | [2021-08-26](https://github.com/17-sss/miracle-coding/blob/main/TIL/202108/2021-08-26.md) |
+
+</details>
